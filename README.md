@@ -1,6 +1,6 @@
 # 🧠 Graph4ASD Challenge 
 
-**[Live Leaderboard](https://rosepy.github.io/Graph4ASD-Challenge/docs/leaderboard.html)**
+**[Live Leaderboard](https://rosepy.github.io/Graph4ASD-Challenge-LLM/docs/leaderboard.html)**
 
 ## 📌 Overview
 
@@ -24,7 +24,7 @@ Each subject is represented as a graph where:
 
 Leaderboard scores are automatically updated. 
 
-👉 **[Live Leaderboard](https://rosepy.github.io/Graph4ASD-Challenge/docs/leaderboard.html)**
+👉 **[Live Leaderboard](https://rosepy.github.io/Graph4ASD-Challenge-LLM/docs/leaderboard.html)**
 
 The evaluation metric is **Macro F1-Score**:
 
